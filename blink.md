@@ -35,7 +35,8 @@ Before starting, ensure you have:
 
 ### 3. Enable LED Pin  
 - Check whether the onboard LED pin is enabled (**green**).  
-- If not, enable it manually.  
+- If not, enable it manually.
+- Then go to the main.c file   
 
 ![pin config](https://github.com/user-attachments/assets/31d74560-a599-4fc3-94da-64f5d75d22d9)  
 
