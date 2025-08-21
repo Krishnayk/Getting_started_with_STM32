@@ -10,7 +10,7 @@ It aims to help you set up STM32 projects and understand basic peripherals step 
 - 🔹 Using `.ioc` (CubeMX) configuration  
 - 🔹 Blink LED (in-built onboard LED) ✅ *[Completed]*  
 - 🔹 Toggle LED with User Button ⏳ *[Upcoming]*  
-- 🔹 Serial Console (UART communication) ⏳ *[Upcoming]*  
+- 🔹 Serial Console (UART communication) ✅ *[Completed]*  
 - 🔹 More examples coming soon...  
 
 ---
