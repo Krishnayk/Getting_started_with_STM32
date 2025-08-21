@@ -10,7 +10,8 @@ It aims to help you set up STM32 projects and understand basic peripherals step 
 - 🔹 Using `.ioc` (CubeMX) configuration  
 - 🔹 Blink LED (in-built onboard LED) ✅ *[Completed]*  
 - 🔹 Toggle LED with User Button ⏳ *[Upcoming]*  
-- 🔹 Serial Console (UART communication) ✅ *[Completed]*  
+- 🔹 Serial Console (UART communication) ✅ *[Completed]*
+- 🔹 Ultrasonic sensor HC-SR04
 - 🔹 More examples coming soon...  
 
 ---
