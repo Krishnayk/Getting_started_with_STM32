@@ -38,6 +38,8 @@ Verify that the USART initialization lines are present. If not, include them.
 ![hal usart](https://github.com/user-attachments/assets/caaf8790-ba70-4662-8da7-0e8a48ee3e2b)  
 
 The **red box** highlights the key **text declaration line** for sending data.  
+Also add the 
+"HAL_UART_Transmit(&huart2, (const uint8_t*) msg, strlen(msg), TIMEOUT);"
 
 ---
 
