@@ -57,7 +57,7 @@ The **red box** highlights the key **text declaration line** for sending data.
 ![utf8 encoding](https://github.com/user-attachments/assets/dbd4d3dd-eee7-403b-b64b-d056d0f334a9)  
 
 - Use **Step Over (F6)** while debugging to execute the code line by line.  
-- At the `printf` line, you will see the output appear in the **Serial Console**.  
+- At the `hal_transmit` line, you will see the output appear in the **Serial Console**.  
 
 ![serial output](https://github.com/user-attachments/assets/ce0b2bf6-ecb1-4506-b3fa-bc0c7b797fdc)  
 
