@@ -24,6 +24,8 @@ select the serial console
 a popup will come make the encoding as UTF-8
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dbd4d3dd-eee7-403b-b64b-d056d0f334a9" />
 on the red box resume as below and click on step over it runs commands line by line so at the print line you wil be able to see it in console as below
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5850f1df-87ee-409a-93a0-eab441df0e12" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ce0b2bf6-ecb1-4506-b3fa-bc0c7b797fdc" />
+
 
 
